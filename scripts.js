@@ -10,16 +10,6 @@ const listings = [
     view: 9, value: 9, remodel: 9
   },
   {
-    address: "3129 Bremerton Pl, La Jolla, CA 92037",
-    price: 3495000,
-    beds: 6, baths: 3, sqft: 3662,
-    description: "Mid-century Leonard Drogin residence on cul-de-sac in La Jolla Heights. Largest usable lot at 0.76 acres. Architectural pedigree, multiple fireplaces, skylights, built-in library, wine storage, 5+ car garage with workshop.",
-    highlights: ["Architectural pedigree", "0.76 acre lot", "Wine storage", "5+ car garage"],
-    url: "https://www.redfin.com/CA/La-Jolla/3129-Bremerton-Pl-92037/home/4881298",
-    img: "https://ssl.cdn-redfin.com/photo/48/islphoto/307/genIslnoResize.260004307_1.webp",
-    view: 6, value: 8, remodel: 4
-  },
-  {
     address: "619 Bonair Way, La Jolla, CA 92037",
     price: 2875000,
     beds: 5, baths: 3.5, sqft: 3123,
