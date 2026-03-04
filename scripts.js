@@ -8,24 +8,7 @@ const listings = [
     url: "https://www.redfin.com/CA/San-Diego/5777-Desert-View-Dr-92037/home/5398818",
     view: 9, value: 9, remodel: 9
   },
-  {
-    address: "7901 Avenida Kirjah, La Jolla, CA 92037",
-    price: 3299990,
-    beds: 6, baths: 6.5, sqft: 3861,
-    description: "Sleek modern estate in North La Jolla with sweeping eastern and city-skyline views. Vaulted ceilings, skylights, three expansive view decks, dramatic elongated fireplace, chef's kitchen with stone countertops.",
-    highlights: ["Modern estate", "City-skyline views", "3 view decks", "6.5 baths"],
-    url: "https://www.redfin.com/CA/San-Diego/7901-Avenida-Kirjah-92037/home/5411762",
-    view: 9, value: 8, remodel: 8
-  },
-  {
-    address: "7911 El Paseo Grande, La Jolla, CA 92037",
-    price: 5385000,
-    beds: 5, baths: 5.5, sqft: 3985,
-    description: "Fully remodeled 2023. Half block from La Jolla Beach & Tennis Club, moments to La Jolla Shores. Soaring ceilings, chef's kitchen with island seating 6, semi-attached guest quarters, new HVAC. Parking for 5 cars.",
-    highlights: ["Fully remodeled 2023", "Near Beach & Tennis Club", "Guest quarters", "Turn-key"],
-    url: "https://www.redfin.com/CA/San-Diego/7911-El-Paseo-Grande-92037/home/5415200",
-    view: 8, value: 6, remodel: 10
-  },
+
   {
     address: "619 Bonair Way, La Jolla, CA 92037",
     price: 2875000,
@@ -44,15 +27,7 @@ const listings = [
     url: "https://www.redfin.com/CA/San-Diego/3129-Bremerton-Pl-92037/home/5392655",
     view: 6, value: 8, remodel: 4
   },
-  {
-    address: "7875 Bellakaren Pl, La Jolla, CA 92037",
-    price: 3595000,
-    beds: 6, baths: 4.5, sqft: 3734,
-    description: "La Jolla home with eastern views and city-skyline views. Spacious 6-bedroom layout with view decks. Well-situated in North La Jolla.",
-    highlights: ["Eastern views", "City-skyline views", "View decks", "6 bedrooms"],
-    url: "https://www.redfin.com/CA/San-Diego/7875-Bellakaren-Pl-92037/home/5411758",
-    view: 8, value: 7, remodel: 6
-  },
+
   {
     address: "466 Westbourne St, La Jolla, CA 92037",
     price: 2690000,
@@ -98,15 +73,7 @@ const listings = [
     url: "https://www.redfin.com/CA/San-Diego/5435-Parkview-Dr-92037/home/5399452",
     view: 7, value: 6, remodel: 5
   },
-  {
-    address: "7784 Lookout Dr, La Jolla, CA 92037",
-    price: 5600000,
-    beds: 5, baths: 5, sqft: 3648,
-    description: "La Jolla home on Lookout Dr. 5 bedrooms, 5 bathrooms, 3,648 sq ft. Premium Lookout location.",
-    highlights: ["Lookout Dr", "5 baths"],
-    url: "https://www.redfin.com/CA/San-Diego/7784-Lookout-Dr-92037/home/5412398",
-    view: 8, value: 5, remodel: 5
-  },
+
   {
     address: "6411 Dowling Dr, La Jolla, CA 92037",
     price: 5075000,
