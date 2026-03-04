@@ -5,20 +5,9 @@ const listings = [
     beds: 5, baths: 3.5, sqft: 2904,
     description: "Casual elegance meets sweeping panoramic views atop Mt. Soledad. Remodeled showpiece kitchen with white oak cabinetry, 13-foot island, Taj Mahal quartz. Canyon, mountain, and city views from nearly every angle. 0.67 acre lot.",
     highlights: ["Remodeled kitchen", "Panoramic views", "0.67 acre lot", "Mt. Soledad"],
-    url: "https://www.redfin.com/CA/La-Jolla/5777-Desert-View-Dr-92037/home/4940714",
+    url: "https://www.redfin.com/CA/La-Jolla/5777-Desert-View-Dr-92037/unit-358-381-14-00/home/200664507",
     img: "https://ssl.cdn-redfin.com/photo/48/islphoto/438/genIslnoResize.260004438_1.webp",
     view: 9, value: 9, remodel: 9
-  },
-
-  {
-    address: "619 Bonair Way, La Jolla, CA 92037",
-    price: 2875000,
-    beds: 5, baths: 3.5, sqft: 3123,
-    description: "Short stroll to Wind N' Sea beach. Euro-inspired beach house plus 1bd/1ba ocean view ADU/guest house built 2018. Travertine floors, French doors, Zen room with stone mosaics, custom stained glass windows.",
-    highlights: ["Walk to Wind N' Sea", "ADU/guest house", "Euro-inspired", "Zen room"],
-    url: "https://www.redfin.com/CA/La-Jolla/619-Bonair-Way-92037/home/4916169",
-    img: "https://ssl.cdn-redfin.com/photo/48/islphoto/537/genIslnoResize.260001537_1.webp",
-    view: 7, value: 8, remodel: 7
   },
   {
     address: "3129 Bremerton Pl, La Jolla, CA 92037",
@@ -30,66 +19,84 @@ const listings = [
     img: "https://ssl.cdn-redfin.com/photo/48/islphoto/307/genIslnoResize.260004307_1.webp",
     view: 6, value: 8, remodel: 4
   },
-
   {
-    address: "466 Westbourne St, La Jolla, CA 92037",
-    price: 2690000,
-    beds: 5, baths: 3, sqft: 2847,
-    description: "Classic La Jolla home on Westbourne St. 5 bedrooms, 3 bathrooms with 2,847 sq ft of living space. Strong value entry point in La Jolla.",
-    highlights: ["La Jolla location", "Value entry point"],
-    url: "https://www.redfin.com/CA/La-Jolla/466-Westbourne-St-92037/home/182884750",
-    img: "https://ssl.cdn-redfin.com/photo/48/islphoto/691/genIslnoResize.250042691_1.webp",
-    view: 5, value: 7, remodel: 5
-  },
-  {
-    address: "5515 Thunderbird, La Jolla, CA 92037",
-    price: 4450000,
-    beds: 5, baths: 4, sqft: 3068,
-    description: "La Jolla home on Thunderbird. 5 bedrooms, 4 bathrooms, 3,068 sq ft in a desirable La Jolla neighborhood.",
-    highlights: ["4 bathrooms", "Desirable location"],
-    url: "https://www.redfin.com/CA/La-Jolla/5515-Thunderbird-Ln-92037/home/4940917",
-    img: "https://ssl.cdn-redfin.com/photo/45/islphoto/498/genIslnoResize.PW25247498_6.webp",
-    view: 6, value: 6, remodel: 5
-  },
-  {
-    address: "6617 Muirlands Dr, La Jolla, CA 92037",
-    price: 5500000,
-    beds: 5, baths: 6.5, sqft: 4588,
-    description: "Prestigious Muirlands location. 5 bedrooms, 6.5 bathrooms, 4,588 sq ft. One of La Jolla's most coveted neighborhoods.",
-    highlights: ["Muirlands", "6.5 baths", "4,588 sq ft"],
-    url: "https://www.redfin.com/CA/La-Jolla/6617-Muirlands-Dr-92037/home/4922078",
-    img: "https://ssl.cdn-redfin.com/photo/48/islphoto/798/genIslnoResize.250043798_1.webp",
-    view: 8, value: 6, remodel: 5
+    address: "619 Bonair Way, La Jolla, CA 92037",
+    price: 2875000,
+    beds: 5, baths: 3.5, sqft: 3123,
+    description: "Short stroll to Wind N' Sea beach. Euro-inspired beach house plus 1bd/1ba ocean view ADU/guest house built 2018. Travertine floors, French doors, Zen room with stone mosaics, custom stained glass windows.",
+    highlights: ["Walk to Wind N' Sea", "ADU/guest house", "Euro-inspired", "Zen room"],
+    url: "https://www.redfin.com/CA/La-Jolla/619-Bonair-Way-92037/home/4916169",
+    img: "https://ssl.cdn-redfin.com/photo/48/islphoto/086/genIslnoResize.260002086_4.webp",
+    view: 7, value: 8, remodel: 7
   },
   {
     address: "541 Gravilla St, La Jolla, CA 92037",
+    price: 5600000,
+    beds: 5, baths: 5, sqft: 3648,
+    description: "La Jolla Village location just blocks from shops, restaurants, and the cove. Spacious 5-bed, 5-bath layout with 3,648 sq ft of living space in one of La Jolla's most walkable neighborhoods.",
+    highlights: ["Village location", "5 full baths", "Walkable", "3,648 sq ft"],
+    url: "https://www.redfin.com/CA/La-Jolla/541-Gravilla-St-92037/home/4917642",
+    img: "https://ssl.cdn-redfin.com/photo/48/islphoto/798/genIslnoResize.250043798_1.webp",
+    view: 7, value: 5, remodel: 5
+  },
+  {
+    address: "6617 Muirlands Dr, La Jolla, CA 92037",
     price: 5295000,
     beds: 5, baths: 6, sqft: 5182,
-    description: "Substantial La Jolla home on Gravilla St. 5 bedrooms, 6 bathrooms, 5,182 sq ft. Largest home in this price range.",
-    highlights: ["5,182 sq ft", "6 baths", "Largest in range"],
-    url: "https://www.redfin.com/CA/La-Jolla/541-Gravilla-St-92037/home/4917642",
-    img: "https://ssl.cdn-redfin.com/photo/48/islphoto/015/genIslnoResize.2600015_1.webp",
-    view: 7, value: 6, remodel: 5
+    description: "Prestigious Muirlands location with 5,182 sq ft of living space. 5 bedrooms, 6 bathrooms. One of the largest homes available in La Jolla's most coveted neighborhood.",
+    highlights: ["Muirlands", "5,182 sq ft", "6 baths", "Largest in range"],
+    url: "https://www.redfin.com/CA/La-Jolla/6617-Muirlands-Dr-92037/home/4922078",
+    img: "https://ssl.cdn-redfin.com/system_files/media/971891_JPG/genDesktopMapHomeCardUrl/item_179.webp",
+    view: 8, value: 6, remodel: 5
   },
   {
     address: "5435 Parkview Dr, La Jolla, CA 92037",
-    price: 5350000,
-    beds: 5, baths: 4, sqft: 3473,
-    description: "La Jolla home on Parkview Dr. 5 bedrooms, 4 bathrooms, 3,473 sq ft with views.",
-    highlights: ["Parkview location", "4 baths"],
+    price: 5500000,
+    beds: 5, baths: 6.5, sqft: 4588,
+    description: "Expansive 4,588 sq ft home on Parkview Dr with 6.5 bathrooms. Generous lot in a prime La Jolla location with excellent views.",
+    highlights: ["4,588 sq ft", "6.5 baths", "Parkview location"],
     url: "https://www.redfin.com/CA/La-Jolla/5435-Parkview-Dr-92037/home/4939731",
     img: "https://ssl.cdn-redfin.com/photo/48/islphoto/315/genIslnoResize.250041315_F.webp",
     view: 7, value: 6, remodel: 5
   },
-
+  {
+    address: "466 Westbourne St, La Jolla, CA 92037",
+    price: 5350000,
+    beds: 5, baths: 4, sqft: 3473,
+    description: "On Westbourne St steps from La Jolla High School. 5 bedrooms, 4 bathrooms, 3,473 sq ft in the heart of La Jolla Village.",
+    highlights: ["Near La Jolla High", "Village location", "4 baths"],
+    url: "https://www.redfin.com/CA/La-Jolla/466-Westbourne-St-92037/home/182884750",
+    img: "https://ssl.cdn-redfin.com/photo/48/islphoto/691/genIslnoResize.250042691_1.webp",
+    view: 5, value: 5, remodel: 5
+  },
+  {
+    address: "5515 Thunderbird Ln, La Jolla, CA 92037",
+    price: 2690000,
+    beds: 5, baths: 3, sqft: 2847,
+    description: "La Jolla home on Thunderbird Ln. 5 bedrooms, 3 bathrooms, 2,847 sq ft. Strong value entry point in a desirable La Jolla neighborhood.",
+    highlights: ["Value entry point", "5 bedrooms"],
+    url: "https://www.redfin.com/CA/La-Jolla/5515-Thunderbird-Ln-92037/home/4940917",
+    img: "https://ssl.cdn-redfin.com/photo/45/islphoto/498/genIslnoResize.PW25247498_6.webp",
+    view: 6, value: 7, remodel: 5
+  },
   {
     address: "6411 Dowling Dr, La Jolla, CA 92037",
-    price: 5075000,
-    beds: 5, baths: 5.5, sqft: 3100,
-    description: "La Jolla home on Dowling Dr. 5 bedrooms, 5.5 bathrooms, 3,100 sq ft.",
-    highlights: ["5.5 baths", "Dowling Dr"],
+    price: 4450000,
+    beds: 5, baths: 4, sqft: 3068,
+    description: "La Jolla home on Dowling Dr near Muirlands. 5 bedrooms, 4 bathrooms, 3,068 sq ft in a quiet residential setting.",
+    highlights: ["Near Muirlands", "4 baths", "Quiet street"],
     url: "https://www.redfin.com/CA/La-Jolla/6411-Dowling-Dr-92037/home/4919610",
     img: "https://ssl.cdn-redfin.com/photo/48/islphoto/924/genIslnoResize.250041924_12.webp",
+    view: 7, value: 6, remodel: 5
+  },
+  {
+    address: "242 Playa Del Norte St, La Jolla, CA 92037",
+    price: 5075000,
+    beds: 5, baths: 5.5, sqft: 3100,
+    description: "La Jolla home on Playa Del Norte. 5 bedrooms, 5.5 bathrooms, 3,100 sq ft. Excellent location in the La Jolla Elementary school zone.",
+    highlights: ["5.5 baths", "La Jolla Elementary zone"],
+    url: "https://www.redfin.com/CA/La-Jolla/242-Playa-del-Norte-92037/home/185186843",
+    img: "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.250032232_8.webp",
     view: 7, value: 6, remodel: 5
   }
 ];
