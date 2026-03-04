@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Jolla Homes — Private Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="header-inner">
+            <h1>La Jolla Homes</h1>
+            <p class="subtitle">5+ Bed · 3+ Bath · $1.5M–$6M</p>
+        </div>
+    </header>
+    <main>
+        <div class="controls">
+            <label>Sort by:</label>
+            <button class="sort-btn active" data-sort="score">Best Overall</button>
+            <button class="sort-btn" data-sort="price-asc">Price ↑</button>
+            <button class="sort-btn" data-sort="price-desc">Price ↓</button>
+            <button class="sort-btn" data-sort="view">Best View</button>
+            <button class="sort-btn" data-sort="value">Best Value</button>
+        </div>
+        <div id="listings" class="listings-grid"></div>
+    </main>
+    <footer>
+        <p>Private listing dashboard — Not for distribution</p>
+        <p class="updated">Data sourced from Redfin · Updated March 3, 2026</p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
