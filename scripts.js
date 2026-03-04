@@ -48,6 +48,7 @@ const listings = [
     description: "La Jolla home on Thunderbird. 5 bedrooms, 4 bathrooms, 3,068 sq ft in a desirable La Jolla neighborhood.",
     highlights: ["4 bathrooms", "Desirable location"],
     url: "https://www.redfin.com/CA/San-Diego/5515-Thunderbird-92037/home/5399832",
+    img: "https://ssl.cdn-redfin.com/photo/45/islphoto/498/genIslnoResize.PW25247498_6.webp",
     view: 6, value: 6, remodel: 5
   },
   {
@@ -77,6 +78,7 @@ const listings = [
     description: "La Jolla home on Parkview Dr. 5 bedrooms, 4 bathrooms, 3,473 sq ft with views.",
     highlights: ["Parkview location", "4 baths"],
     url: "https://www.redfin.com/CA/San-Diego/5435-Parkview-Dr-92037/home/5399452",
+    img: "https://ssl.cdn-redfin.com/photo/48/islphoto/315/genIslnoResize.250041315_F.webp",
     view: 7, value: 6, remodel: 5
   },
 
@@ -87,6 +89,7 @@ const listings = [
     description: "La Jolla home on Dowling Dr. 5 bedrooms, 5.5 bathrooms, 3,100 sq ft.",
     highlights: ["5.5 baths", "Dowling Dr"],
     url: "https://www.redfin.com/CA/San-Diego/6411-Dowling-Dr-92037/home/5404132",
+    img: "https://ssl.cdn-redfin.com/photo/48/islphoto/924/genIslnoResize.250041924_12.webp",
     view: 7, value: 6, remodel: 5
   }
 ];
