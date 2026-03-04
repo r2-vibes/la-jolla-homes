@@ -6,6 +6,7 @@ const listings = [
     description: "Casual elegance meets sweeping panoramic views atop Mt. Soledad. Remodeled showpiece kitchen with white oak cabinetry, 13-foot island, Taj Mahal quartz. Canyon, mountain, and city views from nearly every angle. 0.67 acre lot.",
     highlights: ["Remodeled kitchen", "Panoramic views", "0.67 acre lot", "Mt. Soledad"],
     url: "https://www.redfin.com/CA/San-Diego/5777-Desert-View-Dr-92037/home/5398818",
+    img: "https://ssl.cdn-redfin.com/photo/48/islphoto/438/genIslnoResize.260004438_1.webp",
     view: 9, value: 9, remodel: 9
   },
 
@@ -16,6 +17,7 @@ const listings = [
     description: "Short stroll to Wind N' Sea beach. Euro-inspired beach house plus 1bd/1ba ocean view ADU/guest house built 2018. Travertine floors, French doors, Zen room with stone mosaics, custom stained glass windows.",
     highlights: ["Walk to Wind N' Sea", "ADU/guest house", "Euro-inspired", "Zen room"],
     url: "https://www.redfin.com/CA/San-Diego/619-Bonair-Way-92037/home/5383942",
+    img: "https://ssl.cdn-redfin.com/photo/48/islphoto/537/genIslnoResize.260001537_1.webp",
     view: 7, value: 8, remodel: 7
   },
   {
@@ -25,6 +27,7 @@ const listings = [
     description: "Mid-century Leonard Drogin residence on cul-de-sac in La Jolla Heights. Largest usable lot at 0.76 acres. Architectural pedigree, multiple fireplaces, skylights, built-in library, wine storage, 5+ car garage with workshop.",
     highlights: ["Architectural pedigree", "0.76 acre lot", "Wine storage", "5+ car garage"],
     url: "https://www.redfin.com/CA/San-Diego/3129-Bremerton-Pl-92037/home/5392655",
+    img: "https://ssl.cdn-redfin.com/photo/48/islphoto/307/genIslnoResize.260004307_1.webp",
     view: 6, value: 8, remodel: 4
   },
 
@@ -35,6 +38,7 @@ const listings = [
     description: "Classic La Jolla home on Westbourne St. 5 bedrooms, 3 bathrooms with 2,847 sq ft of living space. Strong value entry point in La Jolla.",
     highlights: ["La Jolla location", "Value entry point"],
     url: "https://www.redfin.com/CA/San-Diego/466-Westbourne-St-92037/home/5385102",
+    img: "https://ssl.cdn-redfin.com/photo/48/islphoto/691/genIslnoResize.250042691_1.webp",
     view: 5, value: 7, remodel: 5
   },
   {
@@ -53,6 +57,7 @@ const listings = [
     description: "Prestigious Muirlands location. 5 bedrooms, 6.5 bathrooms, 4,588 sq ft. One of La Jolla's most coveted neighborhoods.",
     highlights: ["Muirlands", "6.5 baths", "4,588 sq ft"],
     url: "https://www.redfin.com/CA/San-Diego/6617-Muirlands-Dr-92037/home/5404860",
+    img: "https://ssl.cdn-redfin.com/photo/48/islphoto/798/genIslnoResize.250043798_1.webp",
     view: 8, value: 6, remodel: 5
   },
   {
@@ -62,6 +67,7 @@ const listings = [
     description: "Substantial La Jolla home on Gravilla St. 5 bedrooms, 6 bathrooms, 5,182 sq ft. Largest home in this price range.",
     highlights: ["5,182 sq ft", "6 baths", "Largest in range"],
     url: "https://www.redfin.com/CA/San-Diego/541-Gravilla-St-92037/home/5383810",
+    img: "https://ssl.cdn-redfin.com/photo/48/islphoto/015/genIslnoResize.2600015_1.webp",
     view: 7, value: 6, remodel: 5
   },
   {
@@ -98,6 +104,7 @@ function renderListings(sorted) {
   const container = document.getElementById('listings');
   container.innerHTML = sorted.map((l, i) => `
     <a class="card" href="${l.url}" target="_blank" rel="noopener">
+      ${l.img ? `<div class="card-img"><img src="${l.img}" alt="${l.address}" loading="lazy"></div>` : ''}
       <div class="card-header">
         <div class="card-rank">${i + 1}</div>
         <div class="card-price">${formatPrice(l.price)}</div>
