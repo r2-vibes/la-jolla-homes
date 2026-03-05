@@ -30,14 +30,14 @@ const listings = [
     view: 7, value: 5, remodel: 5
   },
   {
-    address: "6617 Muirlands Dr, La Jolla, CA 92037",
-    price: 5295000,
-    beds: 5, baths: 6, sqft: 5182,
-    description: "Prestigious Muirlands location with 5,182 sq ft of living space. 5 bedrooms, 6 bathrooms. One of the largest homes available in La Jolla's most coveted neighborhood.",
-    highlights: ["Muirlands", "5,182 sq ft", "6 baths", "Largest in range"],
-    url: "https://www.redfin.com/CA/La-Jolla/6617-Muirlands-Dr-92037/home/4922078",
-    img: "https://ssl.cdn-redfin.com/system_files/media/971891_JPG/genDesktopMapHomeCardUrl/item_179.webp",
-    view: 8, value: 6, remodel: 5
+    address: "7784 Lookout Dr, La Jolla, CA 92037",
+    price: 4985000,
+    beds: 5, baths: 5.5, sqft: 3597,
+    description: "Ocean views from multiple decks with floor-to-ceiling glass in premier Country Club enclave. Elevator shaft, attached guest apartment with private entrance. Chef's kitchen with premium appliances. Five en-suite bedrooms. Walkable to beach, dining, golf, shops.",
+    highlights: ["Ocean views", "Country Club", "Guest apartment", "Elevator shaft", "En-suite bedrooms"],
+    url: "https://www.redfin.com/CA/La-Jolla/7784-Lookout-Dr-92037/home/4919897",
+    img: "https://ssl.cdn-redfin.com/photo/48/bigphoto/848/250043848_0.jpg",
+    view: 9, value: 6, remodel: 8
   },
   {
     address: "5435 Parkview Dr, La Jolla, CA 92037",
