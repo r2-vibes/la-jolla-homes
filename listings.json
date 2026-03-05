@@ -7,7 +7,12 @@
     "sqft": 2904,
     "lot": "0.67 acres",
     "description": "Casual elegance meets sweeping panoramic views atop Mt. Soledad. Remodeled showpiece kitchen with white oak cabinetry, 13-foot island, Taj Mahal quartz. Bi-fold kitchen window, canyon/mountain/city views from nearly every angle.",
-    "highlights": ["Remodeled kitchen", "Panoramic views", "0.67 acre lot", "Mt. Soledad"],
+    "highlights": [
+      "Remodeled kitchen",
+      "Panoramic views",
+      "0.67 acre lot",
+      "Mt. Soledad"
+    ],
     "redfin_url": "https://www.redfin.com/CA/San-Diego/5777-Desert-View-Dr-92037/home/",
     "view_score": 9,
     "value_score": 9,
@@ -21,7 +26,12 @@
     "sqft": 3662,
     "lot": "0.76 acres",
     "description": "Mid-century Leonard Drogin residence on cul-de-sac in La Jolla Heights. One of the largest usable lots at 0.76 acres. Architectural pedigree, multiple fireplaces, skylights, built-in library, wine storage, 5+ car garage.",
-    "highlights": ["Architectural pedigree", "0.76 acre lot", "Wine storage", "5+ car garage"],
+    "highlights": [
+      "Architectural pedigree",
+      "0.76 acre lot",
+      "Wine storage",
+      "5+ car garage"
+    ],
     "redfin_url": "https://www.redfin.com/CA/San-Diego/3129-Bremerton-Pl-92037/home/",
     "view_score": 6,
     "value_score": 8,
@@ -34,7 +44,12 @@
     "baths": 3.5,
     "sqft": 3123,
     "description": "Short stroll to Wind N' Sea beach. Euro-inspired beach house plus 1bd/1ba ocean view ADU/guest house built 2018. Travertine floors, French doors, Zen room with stone mosaics, custom stained glass.",
-    "highlights": ["Walk to Wind N' Sea", "ADU/guest house", "Euro-inspired", "Zen room"],
+    "highlights": [
+      "Walk to Wind N' Sea",
+      "ADU/guest house",
+      "Euro-inspired",
+      "Zen room"
+    ],
     "redfin_url": "https://www.redfin.com/CA/San-Diego/619-Bonair-Way-92037/home/",
     "view_score": 7,
     "value_score": 8,
@@ -47,7 +62,12 @@
     "baths": 5.5,
     "sqft": 3985,
     "description": "Fully remodeled 2023. Half block from La Jolla Beach & Tennis Club, moments to La Jolla Shores. Soaring ceilings, chef's kitchen with island seating 6, semi-attached guest quarters, new HVAC, parking for 5 cars.",
-    "highlights": ["Fully remodeled 2023", "Near Beach & Tennis Club", "Guest quarters", "Turn-key"],
+    "highlights": [
+      "Fully remodeled 2023",
+      "Near Beach & Tennis Club",
+      "Guest quarters",
+      "Turn-key"
+    ],
     "redfin_url": "https://www.redfin.com/CA/San-Diego/7911-El-Paseo-Grande-92037/home/",
     "view_score": 8,
     "value_score": 6,
@@ -60,7 +80,12 @@
     "baths": 6.5,
     "sqft": 3861,
     "description": "Sleek modern estate in North La Jolla with sweeping eastern and city-skyline views. Vaulted ceilings, skylights, three expansive view decks, dramatic elongated fireplace, chef's kitchen with stone countertops.",
-    "highlights": ["Modern estate", "City-skyline views", "3 view decks", "6.5 baths"],
+    "highlights": [
+      "Modern estate",
+      "City-skyline views",
+      "3 view decks",
+      "6.5 baths"
+    ],
     "redfin_url": "https://www.redfin.com/CA/San-Diego/7901-Avenida-Kirjah-92037/home/",
     "view_score": 9,
     "value_score": 8,
@@ -73,7 +98,11 @@
     "baths": 4.5,
     "sqft": 3734,
     "description": "La Jolla home with eastern views and city-skyline views. Spacious 6-bedroom layout with view decks.",
-    "highlights": ["Eastern views", "City-skyline views", "View decks"],
+    "highlights": [
+      "Eastern views",
+      "City-skyline views",
+      "View decks"
+    ],
     "redfin_url": "https://www.redfin.com/CA/San-Diego/7875-Bellakaren-Pl-92037/home/",
     "view_score": 8,
     "value_score": 7,
@@ -86,7 +115,9 @@
     "baths": 3,
     "sqft": 2847,
     "description": "La Jolla home on Westbourne St. 5 bedrooms, 3 bathrooms, 2,847 sq ft.",
-    "highlights": ["La Jolla location"],
+    "highlights": [
+      "La Jolla location"
+    ],
     "redfin_url": "https://www.redfin.com/CA/San-Diego/466-Westbourne-St-92037/home/",
     "view_score": 5,
     "value_score": 7,
@@ -99,7 +130,9 @@
     "baths": 4,
     "sqft": 3068,
     "description": "La Jolla home on Thunderbird. 5 bedrooms, 4 bathrooms, 3,068 sq ft.",
-    "highlights": ["La Jolla location"],
+    "highlights": [
+      "La Jolla location"
+    ],
     "redfin_url": "https://www.redfin.com/CA/San-Diego/5515-Thunderbird-92037/home/",
     "view_score": 6,
     "value_score": 6,
@@ -112,7 +145,9 @@
     "baths": 4,
     "sqft": 3473,
     "description": "La Jolla home on Parkview Dr. 5 bedrooms, 4 bathrooms, 3,473 sq ft.",
-    "highlights": ["La Jolla location"],
+    "highlights": [
+      "La Jolla location"
+    ],
     "redfin_url": "https://www.redfin.com/CA/San-Diego/5435-Parkview-Dr-92037/home/",
     "view_score": 7,
     "value_score": 6,
@@ -125,7 +160,10 @@
     "baths": 6.5,
     "sqft": 4588,
     "description": "La Jolla Muirlands home. 5 bedrooms, 6.5 bathrooms, 4,588 sq ft.",
-    "highlights": ["Muirlands", "6.5 baths"],
+    "highlights": [
+      "Muirlands",
+      "6.5 baths"
+    ],
     "redfin_url": "https://www.redfin.com/CA/San-Diego/6617-Muirlands-Dr-92037/home/",
     "view_score": 8,
     "value_score": 6,
@@ -138,7 +176,10 @@
     "baths": 6,
     "sqft": 5182,
     "description": "La Jolla home on Gravilla St. 5 bedrooms, 6 bathrooms, 5,182 sq ft.",
-    "highlights": ["5,182 sq ft", "6 baths"],
+    "highlights": [
+      "5,182 sq ft",
+      "6 baths"
+    ],
     "redfin_url": "https://www.redfin.com/CA/San-Diego/541-Gravilla-St-92037/home/",
     "view_score": 7,
     "value_score": 6,
@@ -146,16 +187,31 @@
   },
   {
     "address": "7784 Lookout Dr, La Jolla, CA 92037",
-    "price": "$5,600,000",
+    "price": "$4,985,000",
     "beds": 5,
-    "baths": 5,
-    "sqft": 3648,
-    "description": "La Jolla home on Lookout Dr. 5 bedrooms, 5 bathrooms, 3,648 sq ft.",
-    "highlights": ["Lookout Dr location"],
-    "redfin_url": "https://www.redfin.com/CA/San-Diego/7784-Lookout-Dr-92037/home/",
-    "view_score": 8,
-    "value_score": 5,
-    "remodel_score": 5
+    "baths": 5.5,
+    "sqft": 3597,
+    "description": "Contemporary coastal retreat perched above La Jolla Shores with sweeping ocean views. Floor-to-ceiling glass and open-concept living across multiple decks. Kitchen with upgraded premium appliances. Elevator shaft. Attached guest apartment with private entrance, balcony, and living/office space. Five en-suite bedrooms in a premier Country Club enclave. Walkable to beach, dining, golf, and shops.",
+    "highlights": [
+      "Sweeping ocean views from multiple decks",
+      "Floor-to-ceiling glass, open-concept living",
+      "Elevator shaft",
+      "Guest apartment with private entrance & balcony",
+      "Five en-suite bedrooms",
+      "Country Club enclave",
+      "Walkable to La Jolla Shores beach, dining, golf",
+      "La Jolla Elementary (assigned, 1.0 mi)"
+    ],
+    "redfin_url": "https://www.redfin.com/CA/La-Jolla/7784-Lookout-Dr-92037/home/4919897",
+    "view_score": 9,
+    "value_score": 7,
+    "remodel_score": 4,
+    "lot_sqft": 6776,
+    "year_built": 1997,
+    "parking": "2-car garage",
+    "price_per_sqft": "$1,386",
+    "days_on_market": 113,
+    "mls": "250043848"
   },
   {
     "address": "6411 Dowling Dr, La Jolla, CA 92037",
@@ -164,7 +220,9 @@
     "baths": 5.5,
     "sqft": 3100,
     "description": "La Jolla home on Dowling Dr. 5 bedrooms, 5.5 bathrooms, 3,100 sq ft.",
-    "highlights": ["5.5 baths"],
+    "highlights": [
+      "5.5 baths"
+    ],
     "redfin_url": "https://www.redfin.com/CA/San-Diego/6411-Dowling-Dr-92037/home/",
     "view_score": 7,
     "value_score": 6,
@@ -177,7 +235,9 @@
     "baths": 3,
     "sqft": 0,
     "description": "La Jolla home on Playa Del Norte.",
-    "highlights": ["La Jolla location"],
+    "highlights": [
+      "La Jolla location"
+    ],
     "redfin_url": "https://www.redfin.com/CA/San-Diego/242-Playa-Del-Norte-St-92037/home/",
     "view_score": 5,
     "value_score": 5,
