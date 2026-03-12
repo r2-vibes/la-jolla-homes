@@ -20,16 +20,6 @@ const listings = [
     view: 7, value: 8, remodel: 7
   },
   {
-    address: "541 Gravilla St, La Jolla, CA 92037",
-    price: 5600000,
-    beds: 5, baths: 5, sqft: 3648,
-    description: "La Jolla Village location just blocks from shops, restaurants, and the cove. Spacious 5-bed, 5-bath layout with 3,648 sq ft of living space in one of La Jolla's most walkable neighborhoods.",
-    highlights: ["Village location", "5 full baths", "Walkable", "3,648 sq ft"],
-    url: "https://www.redfin.com/CA/La-Jolla/541-Gravilla-St-92037/home/4917642",
-    img: "https://ssl.cdn-redfin.com/photo/48/islphoto/798/genIslnoResize.250043798_1.webp",
-    view: 7, value: 5, remodel: 5
-  },
-  {
     address: "7784 Lookout Dr, La Jolla, CA 92037",
     price: 4985000,
     beds: 5, baths: 5.5, sqft: 3597,
