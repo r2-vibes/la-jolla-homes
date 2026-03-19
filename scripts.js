@@ -1,15 +1,5 @@
 const listings = [
   {
-    address: "5777 Desert View Dr, La Jolla, CA 92037",
-    price: 2499000,
-    beds: 5, baths: 3.5, sqft: 2904,
-    description: "Casual elegance meets sweeping panoramic views atop Mt. Soledad. Remodeled showpiece kitchen with white oak cabinetry, 13-foot island, Taj Mahal quartz. Canyon, mountain, and city views from nearly every angle. 0.67 acre lot.",
-    highlights: ["Remodeled kitchen", "Panoramic views", "0.67 acre lot", "Mt. Soledad"],
-    url: "https://www.redfin.com/CA/La-Jolla/5777-Desert-View-Dr-92037/unit-358-381-14-00/home/200664507",
-    img: "https://ssl.cdn-redfin.com/photo/48/islphoto/438/genIslnoResize.260004438_1.webp",
-    view: 9, value: 9, remodel: 9
-  },
-  {
     address: "619 Bonair Way, La Jolla, CA 92037",
     price: 2875000,
     beds: 5, baths: 3.5, sqft: 3123,
@@ -21,12 +11,12 @@ const listings = [
   },
   {
     address: "7784 Lookout Dr, La Jolla, CA 92037",
-    price: 4985000,
+    price: 4689000,
     beds: 5, baths: 5.5, sqft: 3597,
     description: "Ocean views from multiple decks with floor-to-ceiling glass in premier Country Club enclave. Elevator shaft, attached guest apartment with private entrance. Chef's kitchen with premium appliances. Five en-suite bedrooms. Walkable to beach, dining, golf, shops.",
     highlights: ["Ocean views", "Country Club", "Guest apartment", "Elevator shaft", "En-suite bedrooms"],
     url: "https://www.redfin.com/CA/La-Jolla/7784-Lookout-Dr-92037/home/4919897",
-    img: "https://ssl.cdn-redfin.com/photo/48/bigphoto/848/250043848_0.jpg",
+    img: "https://ssl.cdn-redfin.com/photo/48/islphoto/848/genIslnoResize.250043848_0.webp",
     view: 9, value: 6, remodel: 8
   },
   {
@@ -66,7 +56,7 @@ const listings = [
     description: "La Jolla home on Dowling Dr near Muirlands. 5 bedrooms, 4 bathrooms, 3,068 sq ft in a quiet residential setting.",
     highlights: ["Near Muirlands", "4 baths", "Quiet street"],
     url: "https://www.redfin.com/CA/La-Jolla/6411-Dowling-Dr-92037/home/4919610",
-    img: "https://ssl.cdn-redfin.com/photo/48/islphoto/924/genIslnoResize.250041924_12.webp",
+    img: "https://ssl.cdn-redfin.com/photo/48/islphoto/924/genIslnoResize.250041924_13.webp",
     view: 7, value: 6, remodel: 5
   },
   {
