@@ -51,7 +51,7 @@ const listings = [
   },
   {
     address: "6411 Dowling Dr, La Jolla, CA 92037",
-    price: 4450000,
+    price: 4250000,
     beds: 5, baths: 4, sqft: 3068,
     description: "La Jolla home on Dowling Dr near Muirlands. 5 bedrooms, 4 bathrooms, 3,068 sq ft in a quiet residential setting.",
     highlights: ["Near Muirlands", "4 baths", "Quiet street"],
