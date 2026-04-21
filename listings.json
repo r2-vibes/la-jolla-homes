@@ -6,241 +6,154 @@
     "baths": 3.5,
     "sqft": 2904,
     "lot": "0.67 acres",
-    "description": "Casual elegance meets sweeping panoramic views atop Mt. Soledad. Remodeled showpiece kitchen with white oak cabinetry, 13-foot island, Taj Mahal quartz. Bi-fold kitchen window, canyon/mountain/city views from nearly every angle.",
+    "description": "Casual elegance meets sweeping panoramic views atop Mt. Soledad. Remodeled showpiece kitchen with white oak cabinetry, 13-foot island, and canyon, mountain, and city views.",
     "highlights": [
-      "Remodeled kitchen",
       "Panoramic views",
+      "Mt. Soledad",
       "0.67 acre lot",
-      "Mt. Soledad"
+      "La Jolla Elementary"
     ],
-    "redfin_url": "https://www.redfin.com/CA/San-Diego/5777-Desert-View-Dr-92037/home/",
+    "redfin_url": "https://www.redfin.com/CA/La-Jolla/5777-Desert-View-Dr-92037/unit-358-381-14-00/home/200664507",
     "view_score": 9,
     "value_score": 9,
-    "remodel_score": 9
+    "remodel_score": 8,
+    "mls": "260004438"
   },
   {
-    "address": "3129 Bremerton Pl, La Jolla, CA 92037",
-    "price": "$3,495,000",
-    "beds": 6,
-    "baths": 3,
-    "sqft": 3662,
-    "lot": "0.76 acres",
-    "description": "Mid-century Leonard Drogin residence on cul-de-sac in La Jolla Heights. One of the largest usable lots at 0.76 acres. Architectural pedigree, multiple fireplaces, skylights, built-in library, wine storage, 5+ car garage.",
-    "highlights": [
-      "Architectural pedigree",
-      "0.76 acre lot",
-      "Wine storage",
-      "5+ car garage"
-    ],
-    "redfin_url": "https://www.redfin.com/CA/San-Diego/3129-Bremerton-Pl-92037/home/",
-    "view_score": 6,
-    "value_score": 8,
-    "remodel_score": 4
-  },
-  {
-    "address": "619 Bonair Way, La Jolla, CA 92037",
-    "price": "$2,875,000",
-    "beds": 5,
-    "baths": 3.5,
-    "sqft": 3123,
-    "description": "Short stroll to Wind N' Sea beach. Euro-inspired beach house plus 1bd/1ba ocean view ADU/guest house built 2018. Travertine floors, French doors, Zen room with stone mosaics, custom stained glass.",
-    "highlights": [
-      "Walk to Wind N' Sea",
-      "ADU/guest house",
-      "Euro-inspired",
-      "Zen room"
-    ],
-    "redfin_url": "https://www.redfin.com/CA/San-Diego/619-Bonair-Way-92037/home/",
-    "view_score": 7,
-    "value_score": 8,
-    "remodel_score": 7
-  },
-  {
-    "address": "7911 El Paseo Grande, La Jolla, CA 92037",
-    "price": "$5,385,000",
-    "beds": 5,
-    "baths": 5.5,
-    "sqft": 3985,
-    "description": "Fully remodeled 2023. Half block from La Jolla Beach & Tennis Club, moments to La Jolla Shores. Soaring ceilings, chef's kitchen with island seating 6, semi-attached guest quarters, new HVAC, parking for 5 cars.",
-    "highlights": [
-      "Fully remodeled 2023",
-      "Near Beach & Tennis Club",
-      "Guest quarters",
-      "Turn-key"
-    ],
-    "redfin_url": "https://www.redfin.com/CA/San-Diego/7911-El-Paseo-Grande-92037/home/",
-    "view_score": 8,
-    "value_score": 6,
-    "remodel_score": 10
-  },
-  {
-    "address": "7901 Avenida Kirjah, La Jolla, CA 92037",
-    "price": "$3,299,990",
-    "beds": 6,
-    "baths": 6.5,
-    "sqft": 3861,
-    "description": "Sleek modern estate in North La Jolla with sweeping eastern and city-skyline views. Vaulted ceilings, skylights, three expansive view decks, dramatic elongated fireplace, chef's kitchen with stone countertops.",
-    "highlights": [
-      "Modern estate",
-      "City-skyline views",
-      "3 view decks",
-      "6.5 baths"
-    ],
-    "redfin_url": "https://www.redfin.com/CA/San-Diego/7901-Avenida-Kirjah-92037/home/",
-    "view_score": 9,
-    "value_score": 8,
-    "remodel_score": 8
-  },
-  {
-    "address": "7875 Bellakaren Pl, La Jolla, CA 92037",
-    "price": "$3,595,000",
-    "beds": 6,
-    "baths": 4.5,
-    "sqft": 3734,
-    "description": "La Jolla home with eastern views and city-skyline views. Spacious 6-bedroom layout with view decks.",
-    "highlights": [
-      "Eastern views",
-      "City-skyline views",
-      "View decks"
-    ],
-    "redfin_url": "https://www.redfin.com/CA/San-Diego/7875-Bellakaren-Pl-92037/home/",
-    "view_score": 8,
-    "value_score": 7,
-    "remodel_score": 6
-  },
-  {
-    "address": "466 Westbourne St, La Jolla, CA 92037",
+    "address": "5515 Thunderbird Ln, La Jolla, CA 92037",
     "price": "$2,690,000",
     "beds": 5,
     "baths": 3,
     "sqft": 2847,
-    "description": "La Jolla home on Westbourne St. 5 bedrooms, 3 bathrooms, 2,847 sq ft.",
+    "lot": "9,900 sq ft",
+    "description": "Single-story coastal La Jolla home on a large lot with updated kitchen and baths, plus a bonus suite in the marketed 5 bed, 3 bath layout.",
     "highlights": [
-      "La Jolla location"
+      "Single-story",
+      "Large lot",
+      "Updated kitchen and baths",
+      "La Jolla Elementary"
     ],
-    "redfin_url": "https://www.redfin.com/CA/San-Diego/466-Westbourne-St-92037/home/",
-    "view_score": 5,
-    "value_score": 7,
-    "remodel_score": 5
-  },
-  {
-    "address": "5515 Thunderbird, La Jolla, CA 92037",
-    "price": "$4,450,000",
-    "beds": 5,
-    "baths": 4,
-    "sqft": 3068,
-    "description": "La Jolla home on Thunderbird. 5 bedrooms, 4 bathrooms, 3,068 sq ft.",
-    "highlights": [
-      "La Jolla location"
-    ],
-    "redfin_url": "https://www.redfin.com/CA/San-Diego/5515-Thunderbird-92037/home/",
+    "redfin_url": "https://www.redfin.com/CA/La-Jolla/5515-Thunderbird-Ln-92037/home/4940917",
     "view_score": 6,
-    "value_score": 6,
-    "remodel_score": 5
+    "value_score": 8,
+    "remodel_score": 7,
+    "mls": "PW25247498"
   },
   {
-    "address": "5435 Parkview Dr, La Jolla, CA 92037",
-    "price": "$5,350,000",
+    "address": "7753 Via Capri, La Jolla, CA 92037",
+    "price": "$4,155,000",
     "beds": 5,
     "baths": 4,
-    "sqft": 3473,
-    "description": "La Jolla home on Parkview Dr. 5 bedrooms, 4 bathrooms, 3,473 sq ft.",
+    "sqft": 3445,
+    "lot": "0.48 acres",
+    "description": "Hidden Valley estate on nearly half an acre with panoramic northwest-facing views and easy proximity to La Jolla Shores.",
     "highlights": [
-      "La Jolla location"
+      "Panoramic views",
+      "Hidden Valley",
+      "0.48 acre lot",
+      "La Jolla Elementary"
     ],
-    "redfin_url": "https://www.redfin.com/CA/San-Diego/5435-Parkview-Dr-92037/home/",
-    "view_score": 7,
-    "value_score": 6,
-    "remodel_score": 5
-  },
-  {
-    "address": "6617 Muirlands Dr, La Jolla, CA 92037",
-    "price": "$5,500,000",
-    "beds": 5,
-    "baths": 6.5,
-    "sqft": 4588,
-    "description": "La Jolla Muirlands home. 5 bedrooms, 6.5 bathrooms, 4,588 sq ft.",
-    "highlights": [
-      "Muirlands",
-      "6.5 baths"
-    ],
-    "redfin_url": "https://www.redfin.com/CA/San-Diego/6617-Muirlands-Dr-92037/home/",
-    "view_score": 8,
-    "value_score": 6,
-    "remodel_score": 5
-  },
-  {
-    "address": "541 Gravilla St, La Jolla, CA 92037",
-    "price": "$5,295,000",
-    "beds": 5,
-    "baths": 6,
-    "sqft": 5182,
-    "description": "La Jolla home on Gravilla St. 5 bedrooms, 6 bathrooms, 5,182 sq ft.",
-    "highlights": [
-      "5,182 sq ft",
-      "6 baths"
-    ],
-    "redfin_url": "https://www.redfin.com/CA/San-Diego/541-Gravilla-St-92037/home/",
-    "view_score": 7,
-    "value_score": 6,
-    "remodel_score": 5
-  },
-  {
-    "address": "7784 Lookout Dr, La Jolla, CA 92037",
-    "price": "$4,985,000",
-    "beds": 5,
-    "baths": 5.5,
-    "sqft": 3597,
-    "description": "Contemporary coastal retreat perched above La Jolla Shores with sweeping ocean views. Floor-to-ceiling glass and open-concept living across multiple decks. Kitchen with upgraded premium appliances. Elevator shaft. Attached guest apartment with private entrance, balcony, and living/office space. Five en-suite bedrooms in a premier Country Club enclave. Walkable to beach, dining, golf, and shops.",
-    "highlights": [
-      "Sweeping ocean views from multiple decks",
-      "Floor-to-ceiling glass, open-concept living",
-      "Elevator shaft",
-      "Guest apartment with private entrance & balcony",
-      "Five en-suite bedrooms",
-      "Country Club enclave",
-      "Walkable to La Jolla Shores beach, dining, golf",
-      "La Jolla Elementary (assigned, 1.0 mi)"
-    ],
-    "redfin_url": "https://www.redfin.com/CA/La-Jolla/7784-Lookout-Dr-92037/home/4919897",
+    "redfin_url": "https://www.redfin.com/CA/La-Jolla/7753-Via-Capri-92037/home/4924905",
     "view_score": 9,
     "value_score": 7,
-    "remodel_score": 4,
-    "lot_sqft": 6776,
-    "year_built": 1997,
-    "parking": "2-car garage",
-    "price_per_sqft": "$1,386",
-    "days_on_market": 113,
-    "mls": "250043848"
+    "remodel_score": 6,
+    "mls": "260007373"
   },
   {
-    "address": "6411 Dowling Dr, La Jolla, CA 92037",
+    "address": "2505 Hidden Valley Pl, La Jolla, CA 92037",
+    "price": "$4,450,000",
+    "beds": 6,
+    "baths": 4,
+    "sqft": 3527,
+    "lot": "0.46 acres",
+    "description": "Sprawling entertainer's home with pool, spa, and a flexible six-bedroom layout on a large Hidden Valley lot close to La Jolla Shores.",
+    "highlights": [
+      "Pool and spa",
+      "6 bedrooms",
+      "3-car garage",
+      "La Jolla Elementary"
+    ],
+    "redfin_url": "https://www.redfin.com/CA/La-Jolla/2505-Hidden-Valley-Pl-92037/home/4879564",
+    "view_score": 7,
+    "value_score": 7,
+    "remodel_score": 6,
+    "mls": "260007168"
+  },
+  {
+    "address": "242 Playa Del Norte St, La Jolla, CA 92037",
     "price": "$5,075,000",
     "beds": 5,
     "baths": 5.5,
     "sqft": 3100,
-    "description": "La Jolla home on Dowling Dr. 5 bedrooms, 5.5 bathrooms, 3,100 sq ft.",
+    "description": "New Beach Barber Tract build steps from Windansea with high-end finishes and a detached guest/ADU component in the marketed layout.",
     "highlights": [
-      "5.5 baths"
+      "New construction",
+      "Beach Barber Tract",
+      "Near Windansea",
+      "La Jolla Elementary"
     ],
-    "redfin_url": "https://www.redfin.com/CA/San-Diego/6411-Dowling-Dr-92037/home/",
-    "view_score": 7,
+    "redfin_url": "https://www.redfin.com/CA/La-Jolla/242-Playa-del-Norte-92037/home/185186843",
+    "view_score": 8,
     "value_score": 6,
-    "remodel_score": 5
+    "remodel_score": 9,
+    "mls": "250032232"
   },
   {
-    "address": "242 Playa Del Norte St, La Jolla, CA 92037",
-    "price": "TBD",
+    "address": "466 Westbourne St, La Jolla, CA 92037",
+    "price": "$5,350,000",
     "beds": 5,
-    "baths": 3,
-    "sqft": 0,
-    "description": "La Jolla home on Playa Del Norte.",
+    "baths": 4,
+    "sqft": 3473,
+    "description": "Luxury newer-construction beach house in the Beach Barber Tract, close to Windansea, the Village, and La Jolla Elementary.",
     "highlights": [
-      "La Jolla location"
+      "Newer construction",
+      "Beach Barber Tract",
+      "Walk to Windansea",
+      "La Jolla Elementary"
     ],
-    "redfin_url": "https://www.redfin.com/CA/San-Diego/242-Playa-Del-Norte-St-92037/home/",
-    "view_score": 5,
+    "redfin_url": "https://www.redfin.com/CA/La-Jolla/466-Westbourne-St-92037/home/182884750",
+    "view_score": 6,
     "value_score": 5,
-    "remodel_score": 5
+    "remodel_score": 9,
+    "mls": "260007545"
+  },
+  {
+    "address": "5435 Parkview Dr, La Jolla, CA 92037",
+    "price": "$5,500,000",
+    "beds": 5,
+    "baths": 6.5,
+    "sqft": 4555,
+    "lot": "0.25 acres",
+    "description": "Large remodeled La Jolla home with a flexible five-bedroom layout, six and a half baths, and partial ocean views.",
+    "highlights": [
+      "Remodeled",
+      "6.5 baths",
+      "4,555 sq ft",
+      "La Jolla Elementary"
+    ],
+    "redfin_url": "https://www.redfin.com/CA/La-Jolla/5435-Parkview-Dr-92037/home/4939731",
+    "view_score": 7,
+    "value_score": 6,
+    "remodel_score": 7,
+    "mls": "250041315"
+  },
+  {
+    "address": "541 Gravilla St, La Jolla, CA 92037",
+    "price": "$5,750,000",
+    "beds": 5,
+    "baths": 5,
+    "sqft": 3648,
+    "description": "Brand-new custom construction in the Beach Barber Tract with a detached guest house and quick access to Windansea and the Village.",
+    "highlights": [
+      "Brand new",
+      "Detached guest house",
+      "Beach Barber Tract",
+      "La Jolla Elementary"
+    ],
+    "redfin_url": "https://www.redfin.com/CA/La-Jolla/541-Gravilla-St-92037/home/4917642",
+    "view_score": 7,
+    "value_score": 5,
+    "remodel_score": 9,
+    "mls": "250036265"
   }
 ]
