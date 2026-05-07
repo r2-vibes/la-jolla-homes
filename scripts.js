@@ -5,15 +5,15 @@ const listings = [
     "beds": 5,
     "baths": 4.0,
     "sqft": 3473,
-    "description": "Luxury beach-area home in the Beach Barber Tract, close to Windansea, the Village, and La Jolla Elementary.",
+    "description": "Only one 5BR New Construction Home Left - 3 sold - ideal Summer Lock n Go Luxury Home in La Jolla! Experience the pinnacle of coastal luxury in this brand-new 5BR, 3,473 sq ft detached 'Lock-n-Go' Bea...",
     "highlights": [
       "La Jolla Elementary"
     ],
     "url": "https://www.redfin.com/CA/La-Jolla/466-Westbourne-St-92037/home/182884750",
-    "img": "https://ssl.cdn-redfin.com/photo/48/islphoto/545/genIslnoResize.260007545_0.webp",
-    "view": 6,
-    "value": 5,
-    "remodel": 9
+    "img": null,
+    "view": 7,
+    "value": 7,
+    "remodel": 7
   },
   {
     "address": "2505 Hidden Valley Pl, La Jolla, CA 92037",
@@ -26,10 +26,10 @@ const listings = [
       "La Jolla Elementary"
     ],
     "url": "https://www.redfin.com/CA/La-Jolla/2505-Hidden-Valley-Pl-92037/home/4879564",
-    "img": "https://ssl.cdn-redfin.com/photo/48/islphoto/168/genIslnoResize.260007168_0.webp",
+    "img": null,
     "view": 7,
     "value": 7,
-    "remodel": 6
+    "remodel": 7
   },
   {
     "address": "7753 Via Capri, La Jolla, CA 92037",
@@ -37,30 +37,30 @@ const listings = [
     "beds": 5,
     "baths": 3.5,
     "sqft": 3445,
-    "description": "Hidden Valley estate on nearly half an acre with panoramic northwest-facing views and easy access to La Jolla Shores.",
+    "description": "7753 Via Capri, La Jolla, CA 92037",
     "highlights": [
       "La Jolla Elementary"
     ],
     "url": "https://www.redfin.com/CA/La-Jolla/7753-Via-Capri-92037/home/4924905",
-    "img": "https://ssl.cdn-redfin.com/photo/48/islphoto/373/genIslnoResize.260007373_0.webp",
-    "view": 9,
+    "img": null,
+    "view": 7,
     "value": 7,
-    "remodel": 6
+    "remodel": 7
   },
   {
-    "address": "5515 Thunderbird Ln, La Jolla, CA 92037",
+    "address": "5515 Thunderbird, La Jolla, CA 92037",
     "price": 2690000,
     "beds": 5,
     "baths": 3.0,
     "sqft": 2847,
-    "description": "Single-story coastal La Jolla home on a large lot with updated kitchen and baths plus bonus-suite flexibility.",
+    "description": "Modern coastal elegance in a prime La Jolla location! Tucked on a quiet street, this stunning single-story home sits on a spacious ~9,900 sq ft lot with 5 beds, 3 baths (incl",
     "highlights": [
       "La Jolla Elementary"
     ],
     "url": "https://www.redfin.com/CA/La-Jolla/5515-Thunderbird-Ln-92037/home/4940917",
-    "img": "https://ssl.cdn-redfin.com/photo/45/islphoto/498/genIslnoResize.PW25247498_6.webp",
-    "view": 6,
-    "value": 8,
+    "img": null,
+    "view": 7,
+    "value": 7,
     "remodel": 7
   },
   {
@@ -69,14 +69,14 @@ const listings = [
     "beds": 5,
     "baths": 6.5,
     "sqft": 4588,
-    "description": "Large remodeled La Jolla home with a flexible five-bedroom layout, six and a half baths, and partial ocean views.",
+    "description": "5435 Parkview Dr, La Jolla, CA 92037",
     "highlights": [
       "La Jolla Elementary"
     ],
     "url": "https://www.redfin.com/CA/La-Jolla/5435-Parkview-Dr-92037/home/4939731",
-    "img": "https://ssl.cdn-redfin.com/photo/48/islphoto/315/genIslnoResize.250041315_G.webp",
+    "img": null,
     "view": 7,
-    "value": 6,
+    "value": 7,
     "remodel": 7
   },
   {
@@ -85,15 +85,15 @@ const listings = [
     "beds": 5,
     "baths": 5.5,
     "sqft": 3100,
-    "description": "New Beach Barber Tract build steps from Windansea with high-end finishes and guest-house style flexibility in the marketed layout.",
+    "description": "Steps from iconic Windansea Beach, in the highly sought after Beach Barber tract neighborhood, this brand-new custom-built masterpiece blends modern luxury with timeless coastal charm",
     "highlights": [
       "La Jolla Elementary"
     ],
     "url": "https://www.redfin.com/CA/La-Jolla/242-Playa-del-Norte-92037/home/185186843",
-    "img": "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.250032232_8.webp",
-    "view": 8,
-    "value": 6,
-    "remodel": 9
+    "img": null,
+    "view": 7,
+    "value": 7,
+    "remodel": 7
   }
 ];
 function formatPrice(p) {
