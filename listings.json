@@ -1,5 +1,21 @@
 [
   {
+    "address": "7901 Avenida Kirjah Unit APN: 346-820-02-00, La Jolla, CA 92037",
+    "price": "$3,149,000",
+    "beds": 6,
+    "baths": 6.5,
+    "sqft": 3861,
+    "description": "A dramatic re-imagining of California coastal living \u2014 this sleek, modern estate perched in North La Jolla delivers sweeping eastern and city-skyline views from multiple vantage points",
+    "highlights": [
+      "La Jolla Elementary"
+    ],
+    "redfin_url": "https://www.redfin.com/CA/La-Jolla/7901-Avenida-Kirjah-92037/unit-APN-346-820-02-00/home/200953829",
+    "img": null,
+    "view_score": 7,
+    "value_score": 7,
+    "remodel_score": 7
+  },
+  {
     "address": "466 Westbourne St, La Jolla, CA 92037",
     "price": "$5,350,000",
     "beds": 5,
@@ -42,22 +58,6 @@
       "La Jolla Elementary"
     ],
     "redfin_url": "https://www.redfin.com/CA/La-Jolla/7753-Via-Capri-92037/home/4924905",
-    "img": null,
-    "view_score": 7,
-    "value_score": 7,
-    "remodel_score": 7
-  },
-  {
-    "address": "5515 Thunderbird, La Jolla, CA 92037",
-    "price": "$2,690,000",
-    "beds": 5,
-    "baths": 3.0,
-    "sqft": 2847,
-    "description": "Modern coastal elegance in a prime La Jolla location! Tucked on a quiet street, this stunning single-story home sits on a spacious ~9,900 sq ft lot with 5 beds, 3 baths (incl",
-    "highlights": [
-      "La Jolla Elementary"
-    ],
-    "redfin_url": "https://www.redfin.com/CA/La-Jolla/5515-Thunderbird-Ln-92037/home/4940917",
     "img": null,
     "view_score": 7,
     "value_score": 7,
