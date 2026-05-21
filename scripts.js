@@ -1,21 +1,5 @@
 const listings = [
   {
-    "address": "7901 Avenida Kirjah Unit APN: 346-820-02-00, La Jolla, CA 92037",
-    "price": 3149000,
-    "beds": 6,
-    "baths": 6.5,
-    "sqft": 3861,
-    "description": "A dramatic re-imagining of California coastal living \u2014 this sleek, modern estate perched in North La Jolla delivers sweeping eastern and city-skyline views from multiple vantage points",
-    "highlights": [
-      "La Jolla Elementary"
-    ],
-    "url": "https://www.redfin.com/CA/La-Jolla/7901-Avenida-Kirjah-92037/unit-APN-346-820-02-00/home/200953829",
-    "img": null,
-    "view": 7,
-    "value": 7,
-    "remodel": 7
-  },
-  {
     "address": "466 Westbourne St, La Jolla, CA 92037",
     "price": 5350000,
     "beds": 5,
