@@ -1,7 +1,7 @@
 [
   {
     "address": "7784 Lookout Dr, La Jolla, CA 92037",
-    "price": "$4,689,000",
+    "price": "$4,395,000",
     "beds": 5,
     "baths": 5.5,
     "sqft": 3597,
@@ -10,22 +10,6 @@
       "La Jolla Elementary"
     ],
     "redfin_url": "https://www.redfin.com/CA/La-Jolla/7784-Lookout-Dr-92037/home/4919897",
-    "img": null,
-    "view_score": 7,
-    "value_score": 7,
-    "remodel_score": 7
-  },
-  {
-    "address": "375 Via Del Norte, La Jolla, CA 92037",
-    "price": "$5,850,000",
-    "beds": 5,
-    "baths": 4.5,
-    "sqft": 2652,
-    "description": "Tucked into a lush, privately gated corner lot in La Jolla\u2019s coveted Lower Hermosa neighborhood, just blocks from Windansea Beach, 375 Via Del Norte offers a timeless take on Mid-Century Modern ...",
-    "highlights": [
-      "La Jolla Elementary"
-    ],
-    "redfin_url": "https://www.redfin.com/CA/La-Jolla/375-Via-del-Norte-92037/home/4933334",
     "img": null,
     "view_score": 7,
     "value_score": 7,
@@ -58,22 +42,6 @@
       "La Jolla Elementary"
     ],
     "redfin_url": "https://www.redfin.com/CA/La-Jolla/2505-Hidden-Valley-Pl-92037/home/4879564",
-    "img": null,
-    "view_score": 7,
-    "value_score": 7,
-    "remodel_score": 7
-  },
-  {
-    "address": "7753 Via Capri, La Jolla, CA 92037",
-    "price": "$4,155,000",
-    "beds": 5,
-    "baths": 3.5,
-    "sqft": 3445,
-    "description": "7753 Via Capri, La Jolla, CA 92037",
-    "highlights": [
-      "La Jolla Elementary"
-    ],
-    "redfin_url": "https://www.redfin.com/CA/La-Jolla/7753-Via-Capri-92037/home/4924905",
     "img": null,
     "view_score": 7,
     "value_score": 7,
