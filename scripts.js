@@ -1,5 +1,21 @@
 const listings = [
   {
+    "address": "5594 Soledad Rd, La Jolla, CA 92037",
+    "price": 5795000,
+    "beds": 5,
+    "baths": 5.5,
+    "sqft": 4173,
+    "description": "Unobstructed panoramic ocean views meet meticulously elevated design in this stunning turn-key contemporary on Mt",
+    "highlights": [
+      "La Jolla Elementary"
+    ],
+    "url": "https://www.redfin.com/CA/La-Jolla/5594-Soledad-Rd-92037/home/4939662",
+    "img": null,
+    "view": 7,
+    "value": 7,
+    "remodel": 7
+  },
+  {
     "address": "7784 Lookout Dr, La Jolla, CA 92037",
     "price": 4395000,
     "beds": 5,
