@@ -16,16 +16,48 @@
     "remodel_score": 7
   },
   {
-    "address": "7784 Lookout Dr, La Jolla, CA 92037",
-    "price": "$4,395,000",
+    "address": "1160 Via Espana, La Jolla, CA 92037",
+    "price": "$3,995,000",
     "beds": 5,
-    "baths": 5.5,
-    "sqft": 3597,
-    "description": "MOTIVATED Sellers! A premium opportunity in La Jolla Shores, this light-filled residence captures sweeping ocean views from multiple levels, with view-forward living spaces that open to generous terra...",
+    "baths": 3.5,
+    "sqft": 3590,
+    "description": "Ideally situated in the ultra-desirable Muirlands neighborhood of La Jolla, this stunning single-story split-level home offers nearly 3,600 sq ft of gracious living with panoramic ocean views ",
     "highlights": [
       "La Jolla Elementary"
     ],
-    "redfin_url": "https://www.redfin.com/CA/La-Jolla/7784-Lookout-Dr-92037/home/4919897",
+    "redfin_url": "https://www.redfin.com/CA/La-Jolla/1160-Via-Espana-92037/home/4934894",
+    "img": null,
+    "view_score": 7,
+    "value_score": 7,
+    "remodel_score": 7
+  },
+  {
+    "address": "2965 Woodford Dr, La Jolla, CA 92037",
+    "price": "$3,995,000",
+    "beds": 5,
+    "baths": 7.0,
+    "sqft": 7488,
+    "description": "2965 Woodford Dr, La Jolla, CA 92037",
+    "highlights": [
+      "La Jolla Elementary"
+    ],
+    "redfin_url": "https://www.redfin.com/CA/La-Jolla/2965-Woodford-Dr-92037/home/201534236",
+    "img": null,
+    "view_score": 7,
+    "value_score": 7,
+    "remodel_score": 7
+  },
+  {
+    "address": "7875 Bellakaren Pl, La Jolla, CA 92037",
+    "price": "$3,200,000",
+    "beds": 6,
+    "baths": 4.5,
+    "sqft": 3734,
+    "description": "7875 Bellakaren Pl, La Jolla, CA 92037",
+    "highlights": [
+      "La Jolla Elementary"
+    ],
+    "redfin_url": "https://www.redfin.com/CA/La-Jolla/7875-Bellakaren-Pl-92037/home/4886666",
     "img": null,
     "view_score": 7,
     "value_score": 7,
@@ -42,54 +74,6 @@
       "La Jolla Elementary"
     ],
     "redfin_url": "https://www.redfin.com/CA/La-Jolla/466-Westbourne-St-92037/home/182884750",
-    "img": null,
-    "view_score": 7,
-    "value_score": 7,
-    "remodel_score": 7
-  },
-  {
-    "address": "2505 Hidden Valley Pl, La Jolla, CA 92037",
-    "price": "$4,450,000",
-    "beds": 5,
-    "baths": 4.0,
-    "sqft": 3527,
-    "description": "Experience the ultimate coastal lifestyle in this sprawling entertainer\u2019s oasis, perfectly situated on a prime corner lot just minutes from La Jolla Shores Beach, top-rated restaurants, and high...",
-    "highlights": [
-      "La Jolla Elementary"
-    ],
-    "redfin_url": "https://www.redfin.com/CA/La-Jolla/2505-Hidden-Valley-Pl-92037/home/4879564",
-    "img": null,
-    "view_score": 7,
-    "value_score": 7,
-    "remodel_score": 7
-  },
-  {
-    "address": "5435 Parkview Dr, La Jolla, CA 92037",
-    "price": "$5,350,000",
-    "beds": 5,
-    "baths": 6.5,
-    "sqft": 4588,
-    "description": "5435 Parkview Dr, La Jolla, CA 92037",
-    "highlights": [
-      "La Jolla Elementary"
-    ],
-    "redfin_url": "https://www.redfin.com/CA/La-Jolla/5435-Parkview-Dr-92037/home/4939731",
-    "img": null,
-    "view_score": 7,
-    "value_score": 7,
-    "remodel_score": 7
-  },
-  {
-    "address": "242 Playa Del Norte St, La Jolla, CA 92037",
-    "price": "$5,075,000",
-    "beds": 5,
-    "baths": 5.5,
-    "sqft": 3100,
-    "description": "Steps from iconic Windansea Beach, in the highly sought after Beach Barber tract neighborhood, this brand-new custom-built masterpiece blends modern luxury with timeless coastal charm",
-    "highlights": [
-      "La Jolla Elementary"
-    ],
-    "redfin_url": "https://www.redfin.com/CA/La-Jolla/242-Playa-del-Norte-92037/home/185186843",
     "img": null,
     "view_score": 7,
     "value_score": 7,
