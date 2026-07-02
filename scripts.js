@@ -1,5 +1,21 @@
 const listings = [
   {
+    "address": "1653 El Paso Real Real, La Jolla, CA 92037",
+    "price": 4295000,
+    "beds": 5,
+    "baths": 3.5,
+    "sqft": 2991,
+    "description": "On magnificent grounds with pool and lighted sport court in the heart of Olde Muirlands, this home offers several features rarely found in La Jolla: five bedrooms, half an acre of picturesque grounds ...",
+    "highlights": [
+      "La Jolla Elementary"
+    ],
+    "url": "https://www.redfin.com/CA/La-Jolla/1653-El-Paso-Real-92037/home/6406934",
+    "img": null,
+    "view": 7,
+    "value": 7,
+    "remodel": 7
+  },
+  {
     "address": "5594 Soledad Rd, La Jolla, CA 92037",
     "price": 5795000,
     "beds": 5,
@@ -10,70 +26,6 @@ const listings = [
       "La Jolla Elementary"
     ],
     "url": "https://www.redfin.com/CA/La-Jolla/5594-Soledad-Rd-92037/home/4939662",
-    "img": null,
-    "view": 7,
-    "value": 7,
-    "remodel": 7
-  },
-  {
-    "address": "1160 Via Espana, La Jolla, CA 92037",
-    "price": 3995000,
-    "beds": 5,
-    "baths": 3.5,
-    "sqft": 3590,
-    "description": "Ideally situated in the ultra-desirable Muirlands neighborhood of La Jolla, this stunning single-story split-level home offers nearly 3,600 sq ft of gracious living with panoramic ocean views ",
-    "highlights": [
-      "La Jolla Elementary"
-    ],
-    "url": "https://www.redfin.com/CA/La-Jolla/1160-Via-Espana-92037/home/4934894",
-    "img": null,
-    "view": 7,
-    "value": 7,
-    "remodel": 7
-  },
-  {
-    "address": "2965 Woodford Dr, La Jolla, CA 92037",
-    "price": 3995000,
-    "beds": 5,
-    "baths": 7.0,
-    "sqft": 7488,
-    "description": "2965 Woodford Dr, La Jolla, CA 92037",
-    "highlights": [
-      "La Jolla Elementary"
-    ],
-    "url": "https://www.redfin.com/CA/La-Jolla/2965-Woodford-Dr-92037/home/201534236",
-    "img": null,
-    "view": 7,
-    "value": 7,
-    "remodel": 7
-  },
-  {
-    "address": "7875 Bellakaren Pl, La Jolla, CA 92037",
-    "price": 3200000,
-    "beds": 6,
-    "baths": 4.5,
-    "sqft": 3734,
-    "description": "7875 Bellakaren Pl, La Jolla, CA 92037",
-    "highlights": [
-      "La Jolla Elementary"
-    ],
-    "url": "https://www.redfin.com/CA/La-Jolla/7875-Bellakaren-Pl-92037/home/4886666",
-    "img": null,
-    "view": 7,
-    "value": 7,
-    "remodel": 7
-  },
-  {
-    "address": "466 Westbourne St, La Jolla, CA 92037",
-    "price": 5350000,
-    "beds": 5,
-    "baths": 4.0,
-    "sqft": 3473,
-    "description": "Only one 5BR New Construction Home Left - 3 sold - ideal Summer Lock n Go Luxury Home in La Jolla! Experience the pinnacle of coastal luxury in this brand-new 5BR, 3,473 sq ft detached 'Lock-n-Go' Bea...",
-    "highlights": [
-      "La Jolla Elementary"
-    ],
-    "url": "https://www.redfin.com/CA/La-Jolla/466-Westbourne-St-92037/home/182884750",
     "img": null,
     "view": 7,
     "value": 7,
