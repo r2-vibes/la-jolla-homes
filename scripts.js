@@ -1,21 +1,5 @@
 const listings = [
   {
-    "address": "1653 El Paso Real Real, La Jolla, CA 92037",
-    "price": 4295000,
-    "beds": 5,
-    "baths": 3.5,
-    "sqft": 2991,
-    "description": "On magnificent grounds with pool and lighted sport court in the heart of Olde Muirlands, this home offers several features rarely found in La Jolla: five bedrooms, half an acre of picturesque grounds ...",
-    "highlights": [
-      "La Jolla Elementary"
-    ],
-    "url": "https://www.redfin.com/CA/La-Jolla/1653-El-Paso-Real-92037/home/6406934",
-    "img": null,
-    "view": 7,
-    "value": 7,
-    "remodel": 7
-  },
-  {
     "address": "1570 Virginia Way, La Jolla, CA 92037",
     "price": 5750000,
     "beds": 5,
