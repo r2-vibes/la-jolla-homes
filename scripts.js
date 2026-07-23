@@ -1,21 +1,5 @@
 const listings = [
   {
-    "address": "1570 Virginia Way, La Jolla, CA 92037",
-    "price": 5750000,
-    "beds": 5,
-    "baths": 3.5,
-    "sqft": 3500,
-    "description": "An exceptional opportunity in the heart of La Jolla, this newly-designated historic American Lodge , built by the Helms family, has been approved for the Mills Act \u2014an important tax benefit for ...",
-    "highlights": [
-      "La Jolla Elementary"
-    ],
-    "url": "https://www.redfin.com/CA/La-Jolla/1570-Virginia-Way-92037/home/95961539",
-    "img": null,
-    "view": 7,
-    "value": 7,
-    "remodel": 7
-  },
-  {
     "address": "5594 Soledad Rd, La Jolla, CA 92037",
     "price": 5795000,
     "beds": 5,
@@ -26,6 +10,22 @@ const listings = [
       "La Jolla Elementary"
     ],
     "url": "https://www.redfin.com/CA/La-Jolla/5594-Soledad-Rd-92037/home/4939662",
+    "img": null,
+    "view": 7,
+    "value": 7,
+    "remodel": 7
+  },
+  {
+    "address": "1570 Virginia Way, La Jolla, CA 92037",
+    "price": 5750000,
+    "beds": 5,
+    "baths": 3.5,
+    "sqft": 3500,
+    "description": "An exceptional opportunity in the heart of La Jolla, this newly-designated historic American Lodge , built by the Helms family, has been approved for the Mills Act \u2014an important tax benefit for ...",
+    "highlights": [
+      "La Jolla Elementary"
+    ],
+    "url": "https://www.redfin.com/CA/La-Jolla/1570-Virginia-Way-92037/home/95961539",
     "img": null,
     "view": 7,
     "value": 7,
