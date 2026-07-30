@@ -1,5 +1,21 @@
 [
   {
+    "address": "1703 Castellana Rd, La Jolla, CA 92037",
+    "price": "$3,599,000",
+    "beds": 5,
+    "baths": 3.0,
+    "sqft": 2320,
+    "description": "Perched above La Jolla\u2019s iconic coastline, 1703 Castellana Road presents a rare opportunity to own a panoramic view property overlooking the Pacific Ocean, Torrey Pines Golf Course, Blacks Beach...",
+    "highlights": [
+      "La Jolla Elementary"
+    ],
+    "redfin_url": "https://www.redfin.com/CA/La-Jolla/1703-Castellana-Rd-92037/home/4911408",
+    "img": null,
+    "view_score": 7,
+    "value_score": 7,
+    "remodel_score": 7
+  },
+  {
     "address": "5594 Soledad Rd, La Jolla, CA 92037",
     "price": "$5,795,000",
     "beds": 5,
@@ -26,22 +42,6 @@
       "La Jolla Elementary"
     ],
     "redfin_url": "https://www.redfin.com/CA/La-Jolla/1570-Virginia-Way-92037/home/95961539",
-    "img": null,
-    "view_score": 7,
-    "value_score": 7,
-    "remodel_score": 7
-  },
-  {
-    "address": "6714 Muirlands Dr, La Jolla, CA 92037",
-    "price": "$5,995,000",
-    "beds": 5,
-    "baths": 3.5,
-    "sqft": 4046,
-    "description": "6714 Muirlands Dr, La Jolla, CA 92037",
-    "highlights": [
-      "La Jolla Elementary"
-    ],
-    "redfin_url": "https://www.redfin.com/CA/La-Jolla/6714-Muirlands-Dr-92037/home/4921408",
     "img": null,
     "view_score": 7,
     "value_score": 7,
