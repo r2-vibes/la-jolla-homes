@@ -1,5 +1,21 @@
 [
   {
+    "address": "521 Arenas St, La Jolla, CA 92037",
+    "price": "$3,295,000",
+    "beds": 6,
+    "baths": 4.0,
+    "sqft": 2206,
+    "description": "Variance granted for Alternate Property Class! Exceptional coastal investment opportunity just blocks away from iconic Windansea Beach! This versatile property features two spacious 3BR/2BA units, cur...",
+    "highlights": [
+      "La Jolla Elementary"
+    ],
+    "redfin_url": "https://www.redfin.com/CA/La-Jolla/521-Arenas-St-92037/home/4914411",
+    "img": null,
+    "view_score": 7,
+    "value_score": 7,
+    "remodel_score": 7
+  },
+  {
     "address": "1703 Castellana Rd, La Jolla, CA 92037",
     "price": "$3,599,000",
     "beds": 5,
@@ -16,28 +32,12 @@
     "remodel_score": 7
   },
   {
-    "address": "5594 Soledad Rd, La Jolla, CA 92037",
-    "price": "$5,795,000",
-    "beds": 5,
-    "baths": 5.5,
-    "sqft": 4173,
-    "description": "Unobstructed panoramic ocean views meet meticulously elevated design in this stunning turn-key contemporary on Mt",
-    "highlights": [
-      "La Jolla Elementary"
-    ],
-    "redfin_url": "https://www.redfin.com/CA/La-Jolla/5594-Soledad-Rd-92037/home/4939662",
-    "img": null,
-    "view_score": 7,
-    "value_score": 7,
-    "remodel_score": 7
-  },
-  {
     "address": "1570 Virginia Way, La Jolla, CA 92037",
     "price": "$5,750,000",
     "beds": 5,
     "baths": 3.5,
     "sqft": 3500,
-    "description": "An exceptional opportunity in the heart of La Jolla, this newly-designated historic American Lodge , built by the Helms family, has been approved for the Mills Act \u2014an important tax benefit for ...",
+    "description": "An exceptional opportunity in the heart of La Jolla, this historically designated American Lodge, built by the Helms family, has been approved for the Mills Act \u2014an important tax benefit for buy...",
     "highlights": [
       "La Jolla Elementary"
     ],
