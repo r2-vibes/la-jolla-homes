@@ -1,15 +1,15 @@
 const listings = [
   {
-    "address": "1865 El Camino Del Teatro, La Jolla, CA 92037",
-    "price": 3600000,
-    "beds": 6,
+    "address": "466 Westbourne St, La Jolla, CA 92037",
+    "price": 5325000,
+    "beds": 5,
     "baths": 4.0,
-    "sqft": 3133,
-    "description": "1865 El Camino Del Teatro, La Jolla, CA 92037",
+    "sqft": 3473,
+    "description": "Only one 5BR New Construction Home Left - 3 sold - ideal Summer Lock n Go Luxury Home in La Jolla! Experience the pinnacle of coastal luxury in this brand-new 5BR, 3,473 sq ft detached 'Lock-n-Go' Bea...",
     "highlights": [
       "La Jolla Elementary"
     ],
-    "url": "https://www.redfin.com/CA/La-Jolla/1865-El-Camino-del-Teatro-92037/home/4923071",
+    "url": "https://www.redfin.com/CA/La-Jolla/466-Westbourne-St-92037/home/182884750",
     "img": null,
     "view": 7,
     "value": 7,
@@ -32,22 +32,6 @@ const listings = [
     "remodel": 7
   },
   {
-    "address": "466 Westbourne St, La Jolla, CA 92037",
-    "price": 5325000,
-    "beds": 5,
-    "baths": 4.0,
-    "sqft": 3473,
-    "description": "Only one 5BR New Construction Home Left - 3 sold - ideal Summer Lock n Go Luxury Home in La Jolla! Experience the pinnacle of coastal luxury in this brand-new 5BR, 3,473 sq ft detached 'Lock-n-Go' Bea...",
-    "highlights": [
-      "La Jolla Elementary"
-    ],
-    "url": "https://www.redfin.com/CA/La-Jolla/466-Westbourne-St-92037/home/182884750",
-    "img": null,
-    "view": 7,
-    "value": 7,
-    "remodel": 7
-  },
-  {
     "address": "521 Arenas St, La Jolla, CA 92037",
     "price": 3295000,
     "beds": 6,
@@ -58,6 +42,22 @@ const listings = [
       "La Jolla Elementary"
     ],
     "url": "https://www.redfin.com/CA/La-Jolla/521-Arenas-St-92037/home/4914411",
+    "img": null,
+    "view": 7,
+    "value": 7,
+    "remodel": 7
+  },
+  {
+    "address": "1703 Castellana Rd, La Jolla, CA 92037",
+    "price": 3599000,
+    "beds": 5,
+    "baths": 3.0,
+    "sqft": 2320,
+    "description": "Perched above La Jolla\u2019s iconic coastline, 1703 Castellana Road presents a rare opportunity to own a panoramic view property overlooking the Pacific Ocean, Torrey Pines Golf Course, Blacks Beach...",
+    "highlights": [
+      "La Jolla Elementary"
+    ],
+    "url": "https://www.redfin.com/CA/La-Jolla/1703-Castellana-Rd-92037/home/4911408",
     "img": null,
     "view": 7,
     "value": 7,
