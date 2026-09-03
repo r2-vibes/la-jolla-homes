@@ -32,22 +32,6 @@ const listings = [
     "remodel": 7
   },
   {
-    "address": "521 Arenas St, La Jolla, CA 92037",
-    "price": 3295000,
-    "beds": 6,
-    "baths": 4.0,
-    "sqft": 2206,
-    "description": "Variance granted for Alternate Property Class! Exceptional coastal investment opportunity just blocks away from iconic Windansea Beach! This versatile property features two spacious 3BR/2BA units, cur...",
-    "highlights": [
-      "La Jolla Elementary"
-    ],
-    "url": "https://www.redfin.com/CA/La-Jolla/521-Arenas-St-92037/home/4914411",
-    "img": null,
-    "view": 7,
-    "value": 7,
-    "remodel": 7
-  },
-  {
     "address": "1703 Castellana Rd, La Jolla, CA 92037",
     "price": 3599000,
     "beds": 5,
@@ -58,6 +42,38 @@ const listings = [
       "La Jolla Elementary"
     ],
     "url": "https://www.redfin.com/CA/La-Jolla/1703-Castellana-Rd-92037/home/4911408",
+    "img": null,
+    "view": 7,
+    "value": 7,
+    "remodel": 7
+  },
+  {
+    "address": "1570 Virginia Way, La Jolla, CA 92037",
+    "price": 5750000,
+    "beds": 5,
+    "baths": 3.5,
+    "sqft": 3500,
+    "description": "An exceptional opportunity in the heart of La Jolla, this historically designated American Lodge, built by the Helms family, has been approved for the Mills Act \u2014an important tax benefit for buy...",
+    "highlights": [
+      "La Jolla Elementary"
+    ],
+    "url": "https://www.redfin.com/CA/La-Jolla/1570-Virginia-Way-92037/home/95961539",
+    "img": null,
+    "view": 7,
+    "value": 7,
+    "remodel": 7
+  },
+  {
+    "address": "2505 Hidden Valley Pl, La Jolla, CA 92037",
+    "price": 4450000,
+    "beds": 5,
+    "baths": 4.0,
+    "sqft": 3527,
+    "description": "Experience the ultimate coastal lifestyle in this sprawling entertainer\u2019s oasis, perfectly situated on a prime corner lot just minutes from La Jolla Shores Beach, top-rated restaurants, and high...",
+    "highlights": [
+      "La Jolla Elementary"
+    ],
+    "url": "https://www.redfin.com/CA/La-Jolla/2505-Hidden-Valley-Pl-92037/home/4879564",
     "img": null,
     "view": 7,
     "value": 7,
