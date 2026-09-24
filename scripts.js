@@ -1,21 +1,5 @@
 const listings = [
   {
-    "address": "466 Westbourne St, La Jolla, CA 92037",
-    "price": 5325000,
-    "beds": 5,
-    "baths": 4.0,
-    "sqft": 3473,
-    "description": "Only one 5BR New Construction Home Left - 3 sold - ideal Summer Lock n Go Luxury Home in La Jolla! Experience the pinnacle of coastal luxury in this brand-new 5BR, 3,473 sq ft detached 'Lock-n-Go' Bea...",
-    "highlights": [
-      "La Jolla Elementary"
-    ],
-    "url": "https://www.redfin.com/CA/La-Jolla/466-Westbourne-St-92037/home/182884750",
-    "img": null,
-    "view": 7,
-    "value": 7,
-    "remodel": 7
-  },
-  {
     "address": "5713 Desert View Dr, La Jolla, CA 92037",
     "price": 2795000,
     "beds": 5,
@@ -32,16 +16,48 @@ const listings = [
     "remodel": 7
   },
   {
-    "address": "1703 Castellana Rd, La Jolla, CA 92037",
-    "price": 3599000,
+    "address": "1570 Virginia Way, La Jolla, CA 92037",
+    "price": 5750000,
     "beds": 5,
-    "baths": 3.0,
-    "sqft": 2320,
-    "description": "Perched above La Jolla\u2019s iconic coastline, 1703 Castellana Road presents a rare opportunity to own a panoramic view property overlooking the Pacific Ocean, Torrey Pines Golf Course, Blacks Beach...",
+    "baths": 3.5,
+    "sqft": 3500,
+    "description": "An exceptional opportunity in the heart of La Jolla, this historically designated American Lodge, built by the Helms family, has been approved for the Mills Actan important tax benefit for buyers and ...",
     "highlights": [
       "La Jolla Elementary"
     ],
-    "url": "https://www.redfin.com/CA/La-Jolla/1703-Castellana-Rd-92037/home/4911408",
+    "url": "https://www.redfin.com/CA/La-Jolla/1570-Virginia-Way-92037/home/95961539",
+    "img": null,
+    "view": 7,
+    "value": 7,
+    "remodel": 7
+  },
+  {
+    "address": "2505 Hidden Valley Pl, La Jolla, CA 92037",
+    "price": 4450000,
+    "beds": 5,
+    "baths": 4.0,
+    "sqft": 3527,
+    "description": "Experience the ultimate coastal lifestyle in this sprawling entertainer\u2019s oasis, perfectly situated on a prime corner lot just minutes from La Jolla Shores Beach, top-rated restaurants, and high...",
+    "highlights": [
+      "La Jolla Elementary"
+    ],
+    "url": "https://www.redfin.com/CA/La-Jolla/2505-Hidden-Valley-Pl-92037/home/4879564",
+    "img": null,
+    "view": 7,
+    "value": 7,
+    "remodel": 7
+  },
+  {
+    "address": "2448 Sagebrush Ct, La Jolla, CA 92037",
+    "price": 5950000,
+    "beds": 5,
+    "baths": 5.5,
+    "sqft": 4467,
+    "description": "A striking ground-up new construction , this soft contemporary residence blends refined design with exceptional craftsmanship on an expansive 27,442-square-foot lot, tucked away on a quiet cul-de-sac",
+    "highlights": [
+      "La Jolla Elementary"
+    ],
+    "url": "https://www.redfin.com/CA/La-Jolla/2448-Sagebrush-Ct-92037/home/6638298",
     "img": null,
     "view": 7,
     "value": 7,
