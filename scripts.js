@@ -1,5 +1,21 @@
 const listings = [
   {
+    "address": "7145 Fairway Rd, La Jolla, CA 92037",
+    "price": 5498000,
+    "beds": 5,
+    "baths": 6.5,
+    "sqft": 6567,
+    "description": "A rare and\udb40\udce2\udb40\udc81\udb40\udca3\udb40\udce2\udb40\udc81\udb40\udca3\udb40\udccd\udb40\udc8f\udb40\udce2\udb40\udc80\udb40\udc8b\udb40\udce2\udb40\udc81\udb40\udca4\udb40\udcf3\udb40\udca0\udb40\udc81\udb40\udc81 extraordinary opportunity in the heart of La Jolla\u2019s coveted Country Club neighborhood",
+    "highlights": [
+      "La Jolla Elementary"
+    ],
+    "url": "https://www.redfin.com/CA/La-Jolla/7145-Fairway-Rd-92037/home/4921003",
+    "img": null,
+    "view": 7,
+    "value": 7,
+    "remodel": 7
+  },
+  {
     "address": "5713 Desert View Dr, La Jolla, CA 92037",
     "price": 2795000,
     "beds": 5,
@@ -32,16 +48,16 @@ const listings = [
     "remodel": 7
   },
   {
-    "address": "2448 Sagebrush Ct, La Jolla, CA 92037",
-    "price": 5950000,
+    "address": "2505 Hidden Valley Pl, La Jolla, CA 92037",
+    "price": 4450000,
     "beds": 5,
-    "baths": 5.5,
-    "sqft": 4467,
-    "description": "A striking ground-up\udb40\udce2\udb40\udc81\udb40\udca3\udb40\udce2\udb40\udc81\udb40\udca3\udb40\udccd\udb40\udc8f\udb40\udce2\udb40\udc80\udb40\udc8b\udb40\udce2\udb40\udc81\udb40\udca4\udb40\udcf3\udb40\udca0\udb40\udc81\udb40\udc81 new construction , this soft contemporary residence blends refined design with exceptional craftsmanship on an expansive 27,442-square-foot lot, tucked away on a...",
+    "baths": 4.0,
+    "sqft": 3527,
+    "description": "Experience the ultimate coastal lifestyle in this sprawling entertainer\u2019s oasis, perfectly situated on a prime corner lot just minutes from La Jolla Shores Beach, top-rated restaurants, and high...",
     "highlights": [
       "La Jolla Elementary"
     ],
-    "url": "https://www.redfin.com/CA/La-Jolla/2448-Sagebrush-Ct-92037/home/6638298",
+    "url": "https://www.redfin.com/CA/La-Jolla/2505-Hidden-Valley-Pl-92037/home/4879564",
     "img": null,
     "view": 7,
     "value": 7,
