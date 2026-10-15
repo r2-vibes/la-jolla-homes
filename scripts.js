@@ -5,7 +5,7 @@ const listings = [
     "beds": 5,
     "baths": 6.5,
     "sqft": 6567,
-    "description": "A rare and\udb40\udce2\udb40\udc81\udb40\udca3\udb40\udce2\udb40\udc81\udb40\udca3\udb40\udccd\udb40\udc8f\udb40\udce2\udb40\udc80\udb40\udc8b\udb40\udce2\udb40\udc81\udb40\udca4\udb40\udcf3\udb40\udca0\udb40\udc81\udb40\udc81 extraordinary opportunity in the heart of La Jolla\u2019s coveted Country Club neighborhood",
+    "description": "A rare and extraordinary opportunity in the heart of La Jolla\u2019s coveted Country Club neighborhood",
     "highlights": [
       "La Jolla Elementary"
     ],
@@ -16,16 +16,32 @@ const listings = [
     "remodel": 7
   },
   {
-    "address": "5713 Desert View Dr, La Jolla, CA 92037",
-    "price": 2795000,
+    "address": "1121 Via Carolina, La Jolla, CA 92037",
+    "price": 4995000,
     "beds": 5,
     "baths": 4.0,
-    "sqft": 3350,
-    "description": "5713 Desert View Dr, La Jolla, CA 92037",
+    "sqft": 3816,
+    "description": "Updated in 2024\udb40\udce2\udb40\udc81\udb40\udca3\udb40\udce2\udb40\udc81\udb40\udca3\udb40\udccd\udb40\udc8f\udb40\udce2\udb40\udc80\udb40\udc8b\udb40\udce2\udb40\udc81\udb40\udca4\udb40\udcf3\udb40\udca0\udb40\udc81\udb40\udc81 and move-in ready: a new kitchen, all-new baths and new floors throughout, in a single-level home on a quiet Lower Muirlands cul-de-sac",
     "highlights": [
       "La Jolla Elementary"
     ],
-    "url": "https://www.redfin.com/CA/La-Jolla/5713-Desert-View-Dr-92037/home/4940712",
+    "url": "https://www.redfin.com/CA/La-Jolla/1121-Via-Carolina-92037/home/4919668",
+    "img": null,
+    "view": 7,
+    "value": 7,
+    "remodel": 7
+  },
+  {
+    "address": "429-33 Nautilus St, La Jolla, CA 92037",
+    "price": 4999995,
+    "beds": 7,
+    "baths": 5.0,
+    "sqft": 3192,
+    "description": "Coastal Windansea Compound | Steps to World-Famous Surf Offered on the open market for the first time in decades, this Beach Barber Tract property features two detached residences positioned west of L...",
+    "highlights": [
+      "La Jolla Elementary"
+    ],
+    "url": "https://www.redfin.com/CA/La-Jolla/429-Nautilus-St-92037/home/205326983",
     "img": null,
     "view": 7,
     "value": 7,
@@ -33,31 +49,15 @@ const listings = [
   },
   {
     "address": "1570 Virginia Way, La Jolla, CA 92037",
-    "price": 5750000,
+    "price": 5300000,
     "beds": 5,
     "baths": 3.5,
     "sqft": 3500,
-    "description": "An exceptional opportunity\udb40\udce2\udb40\udc81\udb40\udca3\udb40\udce2\udb40\udc81\udb40\udca3\udb40\udccd\udb40\udc8f\udb40\udce2\udb40\udc80\udb40\udc8b\udb40\udce2\udb40\udc81\udb40\udca4\udb40\udcf3\udb40\udca0\udb40\udc81\udb40\udc81 in the heart of La Jolla, this historically designated American Lodge, built by the Helms family, has been approved for the Mills Act \u2014an important t...",
+    "description": "An exceptional opportunity in the heart of La Jolla, this historically designated American Lodge, built by the Helms family, has been approved for the Mills Act \u2014an important tax benefit for buy...",
     "highlights": [
       "La Jolla Elementary"
     ],
     "url": "https://www.redfin.com/CA/La-Jolla/1570-Virginia-Way-92037/home/95961539",
-    "img": null,
-    "view": 7,
-    "value": 7,
-    "remodel": 7
-  },
-  {
-    "address": "2505 Hidden Valley Pl, La Jolla, CA 92037",
-    "price": 4450000,
-    "beds": 5,
-    "baths": 4.0,
-    "sqft": 3527,
-    "description": "Experience the ultimate coastal lifestyle in this sprawling entertainer\u2019s oasis, perfectly situated on a prime corner lot just minutes from La Jolla Shores Beach, top-rated restaurants, and high...",
-    "highlights": [
-      "La Jolla Elementary"
-    ],
-    "url": "https://www.redfin.com/CA/La-Jolla/2505-Hidden-Valley-Pl-92037/home/4879564",
     "img": null,
     "view": 7,
     "value": 7,
